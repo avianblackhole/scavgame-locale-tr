@@ -5072,183 +5072,183 @@
         },
         {
             "seeGravel": [
-                "Hhrnnn... He-re...",
-                "Nnhh... G-ray...",
-                "Du-ne... Go...",
-                "...Why s-top..?",
-                "Nnnhh... Fo-od place...",
-                "Ar-ri-ve.",
-                "Co-ld..?"
+                "Hhrnnn... Bu-ra...",
+                "Innhh... G-ri...",
+                "Du-ne... Gitmek...",
+                "...Ne-den dur..?",
+                "Innhh... Ye-mek yeri...",
+                "Var-ış.",
+                "So-ğuk..?"
             ],
             "eatGood": [
-                "Nngghhhrr! Tr-eat!!",
-                "Ngghraahhh! Du-ne li-ke..!",
-                "Hnnn...Hnnnrr...Go-od...",
-                "Fo-od... Li-ke...",
-                "Tas-te... Spe-ci-al... Nhhrr...",
-                "Nrr... Li-ke...",
-                "Wa-nt... Mo-re..."
+                "Nngghhhrr! Ye-mek!!",
+                "Ngghraahhh! Du-ne sev-mek..!",
+                "Hnnn...Hnnnrr...İyi...",
+                "Sev-mek... Ye-mek...",
+                "Tad... Öz-el... Nhhrr...",
+                "Nrr... Sev-mek...",
+                "İste-mek... Da-ha..."
             ],
             "eatMediocre": [
-                "Nnnhrrr... Fo-od...",
-                "Du-ne... Eat... Nrrhh...",
-                "Nhhhrr...Mmhhh...",
-                "Eat... Un-til... Nggrrhh... Fu-ll...",
-                "Fo-od...",
-                "Tas-ty...",
-                "Du-ne... Like eat... Ghhr..."
+                "Innnhrrr... Ye-mek...",
+                "Du-ne... Ye-mek... Nrrhh...",
+                "Nhhhrr...Immhhh...",
+                "Dolana... Ka-dar... Nggrrhh... Ye...",
+                "Ye-mek...",
+                "Lezzet-li...",
+                "Du-ne... Sevmek yemeyi... Ghhr..."
             ],
             "eatBad": [
                 "Nhhrr... Nhhghhh...!",
-                "Nggrhaahhh... Fo-od...",
-                "Nngrr... Mo-re..?",
-                "Wa-n... Du-ne... Gnnhnhrr... Fo-od... Nhhrr..."
+                "Nggrhaahhh... Ye-mek...",
+                "Nngrr... Da-ha..?",
+                "İste-mek... Du-ne... Gnnhnhrr... Ye-mek... Nhhrr..."
             ],
             "refuseEat": [
-                "...Woh?",
-                "Du-ne... Not... Grr..",
+                "...Hıh?",
+                "Du-ne... Olma-mak... Grr..",
                 "Gghhrrrr!!",
                 "Ngghhhrraaghh!",
-                "Bad..."
+                "Kötü..."
             ],
             "tired": [
-                "Sle-eep... Wa-nt...",
-                "Du-ne... Nap...",
-                "S...Leep.",
-                "Eeee... Eeeeb..!",
-                "Sleeee-p.... Slee-peeee...",
-                "Mnnhhrr... Do-wn..."
+                "Uy-ku... İste-mek...",
+                "Du-ne... Uyku...",
+                "Uy...Ku.",
+                "Eeee... Uyuğ..!",
+                "Uyk-uuuu.... Uyk-uuuuu...",
+                "Mnnhhrr... Uz-an..."
             ],
             "verytired": [
-                "Ne-ed.... Nap...",
-                "Tiiii... Red...",
-                "Nnnhhh......Do-wn...",
-                "Lie... Do-wn...",
-                "Hhhrrnn... S...Sle-eeeep..."
+                "Uy-ku.... İhti-yaç...",
+                "Yorrrrrr... Gun...",
+                "Nnnhhh......Uz-an...",
+                "Uz...an-mak...",
+                "Hhhrrnn... U...Uy-kuuuuu..."
             ],
             "confused": [
-                "He-ad...",
+                "Ka-fa...",
                 "Gghhnn... Ghhrrrr...",
-                "Ww.... Wh-at....",
-                "Not... Kno-ww....",
-                "Con-fused....",
+                "Nn.... Ney....",
+                "Bilme-mek....",
+                "Ka-fa Karı-şık....",
                 "Nnhhhrrr...",
-                "No... Du-ne... Wei-rd..... Ghhr...",
+                "Hayır... Du-ne... Gar-ip..... Ghhr...",
                 "Nnnnhhhh..."
             ],
             "wakeup": [
-                "Du-ne... Wake...",
-                "Hell-lo...",
+                "Du-ne... Uyan...",
+                "Mer-haba...",
                 "Hhrr..?",
                 "Mnnnhhh...",
-                "A-live...Ghrr...",
+                "Can-lı...Ghrr...",
                 "Mmm..."
             ],
             "vomit": [
-                "Be-li... Fight...",
-                "Foo-d... Fight back...",
-                "Nhhgghhrrr... Ghhraghhh!",
-                "Hnnnghh..? Ghhr... W-hat...",
-                "Nhgghhrr... Du-ne...... Bad....",
-                "Ghhn... Bad... Eat..?"
+                "Kar-ın... Sav-aş...",
+                "Ye-mek... Savaş-mak...",
+                "Inhhgghhrrr... Ghhraghhh!",
+                "Hnnnghh..? Ghhr... Ne...",
+                "Inhgghhrr... Du-ne...... Kötü....",
+                "Ghhn... Kötü... Ye-mek..?"
             ],
             "vomitblood": [
                 "Du-ne... Fe-el baaad....",
                 "Guurhhh... Gnnnhh...?",
-                "Nnngghhhrr....?",
-                "Ggyiacckk! Grhrh... W-hat...",
+                "Inngghhhrr....?",
+                "Ggyiakk! Grhrh... Ne-y...",
                 "...Ngghrhh...",
-                "Grhrhaughh... Ghnnn... W-hy...",
-                "Nggh...du-ne...no...goo-d..."
+                "Grhrhaughh... Ghnnn... Ne-den...",
+                "Nggh...du-ne...kö-tü..."
             ],
             "full": [
-                "Du-ne fu-ll...",
-                "Ea-t much...!",
-                "Wa-it eat...",
-                "Du-ne no mo-re eat...",
-                "Ngghh... Fu-ll...",
+                "Du-ne do-lu...",
+                "Ye-mek çok...!",
+                "Ye-mek bekle...",
+                "Du-ne daha yeme-mek...",
+                "Ngghh... Do-lu...",
                 "E-noff... Gnnh..."
             ],
             "hungry": [
-                "Wan-t... Mo-re... Foo-d...",
-                "Du-ne...hungry...",
-                "Bite?",
-                "...Nggh... Wan-t...",
-                "Hun...ger...",
-                "*drooling*",
-                "Whe-re... Eat..?",
-                "Bi-te...",
-                "E-at..?",
-                "Du-ne...e-at..?"
+                "Ye-mek... Da-ha... İste-mek...",
+                "Du-ne...aç...",
+                "Lokma?",
+                "...Nggh... İste-mek...",
+                "Aç...lık...",
+                "*ağız sulanması*",
+                "Nere-de... Ye-mek..?",
+                "Lok-ma...",
+                "Ye-mek..?",
+                "Du-ne...ye-mek..?"
             ],
             "starving": [
-                "*drooling heavily*",
-                "Ne-ed... Eat!",
-                "Ngghhhhrrr! Foo-d!!!",
-                "NGHHRRHHH!! Whe-re eat!?",
-                "Nhghhrrr! Du-ne star-ve!!",
-                "NNGRHH!! FOO-D!! DU-NE!!"
+                "*aşırı ağız sulanması*",
+                "Ye-mek... İhtiyaç!",
+                "Ngghhhhrrr! Ye-mek!!!",
+                "NGHHRRHHH!! Nere-de ye-mek!?",
+                "Nhghhrrr! Du-ne aç!!",
+                "NNGRHH!! YE-MEK! DU-NE!!"
             ],
             "thirsty": [
-                "S-lurp..?",
-                "Wa-ter...",
-                "Mmm... D-rink..?",
-                "Du-ne... Wa-ter...",
-                "Wan-t... Wa-ter..?",
-                "D-rink..."
+                "Hö-pürt..?",
+                "Su...",
+                "Mmm... İçe-cek..?",
+                "Du-ne... Su...",
+                "Wan-t... Su..?",
+                "İç-mek..."
             ],
             "dehydrated": [
-                "Need... Wa-ter..!",
-                "Ngghh... D-ry...",
-                "Wa-ter...now!!",
-                "Gghrhhh... Wa-ter!!",
-                "Du-ne... P-arch..!",
-                "Du-ne... Wa-ter... NOW!",
-                "Gghhrraaaghh! D-rink! Now..!"
+                "İhtiyaç... Su..!",
+                "Ngghh... Ku-ru...",
+                "Su...şim-di!!",
+                "Gghrhhh... Su!!",
+                "Du-ne... Ku-ru..!",
+                "Du-ne... Su... ŞİMDİ!",
+                "Gghhrraaaghh! İçe-cek! Şimdi..!"
             ],
             "limbmuscle": [
-                "<Limb> no mo-ve...",
-                "Du-ne <limb> stop wo-rk..?",
-                "Du-ne nee-d new <limb>.",
-                "<limb> no work...nnngrrhh...",
-                "<limb> is me-an..! Gghhrr!",
-                "Du-ne...<limb> hur-t..!"
+                "<Limb> hara-ket etme-mek...",
+                "Du-ne <limb> çalışma-mak..?",
+                "Du-ne <limb> yenisi gerek-mek.",
+                "<limb> çalışma-mak...nnngrrhh...",
+                "<limb> ka-ba..! Gghhrr!",
+                "Du-ne...<limb> acı-mak..!"
             ],
             "limbinfected": [
-                "Du-ne <limb> war-m...",
-                "Sick..?",
-                "Nnnrr...<limb> loo-k weird..?",
-                "Du-ne <limb> r-ash..?",
-                "Hhnnn...<limb> fee-l weird..."
+                "Du-ne <limb> ılık...",
+                "Hasta..?",
+                "Nnnrr...<limb> garip dur-mak..?",
+                "Du-ne <limb> yara..?",
+                "Hhnnn...<limb> garip..."
             ],
             "limbskin": [
-                "<limb> yell-ow..?",
-                "Oooouur! <limb> is ba-d!",
-                "Du-ne hurt...",
-                "Du-ne <limb> hurt...",
-                "Ghhhrr...<limb> no goo-d..."
+                "<limb> sa-rı..?",
+                "Oooouur! <limb> kö-tü!",
+                "Du-ne acı-mak...",
+                "Du-ne <limb> acı-mak...",
+                "Ghhhrr...<limb> iyi de-ğil..."
             ],
             "sad": [
-                "Sad.",
-                "Du-ne sad.",
-                "No s-mile...",
-                "Du-ne no s-mile...",
-                "Du-ne fee-l bad.",
-                "No ha-pi...",
-                "Du-ne not ha-pi..."
+                "Üz-gün.",
+                "Du-ne üz-gün.",
+                "Gülümseme-mek...",
+                "Du-ne gülümseme-mek...",
+                "Du-ne kötü hisset-mek.",
+                "Mutlu yok...",
+                "Du-ne mutlu yok..."
             ],
             "gloomy": [
-                "Foo-d make fee-l better...",
-                "Foo-d make du-ne fee-l better...",
-                "Ve-ry saaad...",
-                "Ve-ry saaad du-ne...",
-                "Grrr..mind bad.",
-                "Grrhhh...du-ne mind bad...",
-                "Nhhhhrr...",
-                "Nnnngggrhhh... Ghhr...",
+                "Ye-mek iyi hisset-mek yap-mak...",
+                "Ye-mek du-ne iyi hisset-mek yap-mak...",
+                "Çok üz-gün...",
+                "Çok üz-güüüün du-ne...",
+                "Grrr..kafa kötü.",
+                "Grrhhh...du-ne kafa kötü...",
+                "Inhhhhrr...",
+                "Innngggrhhh... Ghhr...",
                 "Gghhhrr...",
-                "Du-ne not feel goo-d!",
-                "Not feel goo-d!"
+                "Du-ne iyi hissteme-mek!",
+                "İyi hissteme-mek!"
             ],
             "depressed": [
                 "Woo... Whhhgrr... Nggghhhrrr...",
@@ -5257,21 +5257,21 @@
                 "Ngghhhnn... Nghhggghhh.... Nghhrr!",
                 "Ngghhruagghhh! Gghhrr...",
                 "Nnhhg... Nggghhh!",
-                "Ngghrhhh! W-hy!?"
+                "Ngghrhhh! Ne-den!?"
             ],
             "miserable": [
                 "NNNGRHHAGGHHH!!! NNGGHRHHHH!",
                 "NNGRHHHHHH! GGRRAAGGHHH!",
-                "GGHHRAGGHHH!! HAAATEEE!!!",
-                "GGHHRAGGHHH!! DUUNNNE!!!! HAAATEEE!!!",
+                "GGHHRAGGHHH!! NEFRETTTTT!!!",
+                "GGHHRAGGHHH!! DUUNNNE!!!! NEFRETTTTT!!!",
                 "AAARHHGHHHHNNHH!!! GGRAGGHHHHHH!",
-                "AANNNGRRYY! GGRHHAANNGHHH!",
-                "NNNGRRAGHHHH! DU-NE.... DES-TROY!!!",
-                "NNNGRRAGHHHH! HHAAATEE! DES-TROY!!!",
-                "GGHHRAAHHHGNHH! DU-NE HATE! DES-TROY!!!"
+                "SİNİRLİİİİİİ! GGRHHAANNGHHH!",
+                "NNNGRRAGHHHH! DU-NE.... YIK-IM!!!",
+                "NNNGRRAGHHHH! NEFRETTTT! YIK-IM!!!",
+                "GGHHRAAHHHGNHH! DU-NE NEFRET! YIK-IM!!!"
             ],
             "angeronitem": [
-                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne des-troy... Fri-end..."
+                "NNGRRUUAAANNGHHHH! NNNGHH.... Nrrghhhh... Du-ne yık-mak... Arka-daş..."
             ],
             "refuse": [
                 "...",
@@ -5286,44 +5286,44 @@
                 "...",
                 "Ngrrhhh",
                 "Grrr...",
-                "Mnnhh...",
-                "*hiss*",
-                "No...",
+                "Mınnhh...",
+                "*tıslama*",
+                "Hayır...",
                 "Du-ne...",
                 "Nnnnrrr...",
                 "Nnhghh..."
             ],
             "bleeding": [
-                "Bl-eed...",
-                "Du-ne...bl-eed...",
-                "Du-ne...leak...",
-                "Leak...yellow...",
-                "Ye-llow...b-ad...",
-                "B-ad...bl-eed...",
-                "B-ad...du-ne hurt..!",
-                "Ngghhhrr! Du-ne hurt!",
-                "Grrhhhh! Du-ne n-eed help!",
-                "He-lp!! Du-ne!",
-                "Du-ne nee-d fix..!",
-                "Nnnrr... Du-ne ye-llow...",
-                "Nrr... B-lood...",
-                "Nrrhh... Du-ne...b-lood!!"
+                "Kana-mak...",
+                "Du-ne...kana-mak...",
+                "Du-ne...ak-mak...",
+                "Ak-mak...sarı...",
+                "Sarı...kö-tü...",
+                "Kö-tü...kana-mak...",
+                "Kö-tü...du-ne acımak..!",
+                "Ngghhhrr! Du-ne acımak!",
+                "Grrhhhh! Du-ne ihti-yaç yar-dım!",
+                "Yar-dım!! Du-ne!",
+                "Du-ne ihti-yaç düzelt-me..!",
+                "Nnnrr... Du-ne sarı...",
+                "Nrr... kan...",
+                "Nrrhh... Du-ne...kan!!"
             ],
             "bleedingheavy": [
-                "Bl-eed!!",
-                "Du-ne bl-eed!! Mu-ch!!",
-                "Du-ne...leak!! No-w!!",
-                "F-low...yellow! Du-ne he-lp!!",
-                "Ye-llow!! B-ad!!!",
-                "B-ad...bl-eed...",
-                "B-ad...du-ne hurt..!",
+                "Kana-mak!!",
+                "Du-ne kana-mak!! Çok!!",
+                "Du-ne...akmak!! Şim-di!!",
+                "Ak-mak...sarı! Du-ne yar-dım!!",
+                "Sarı!! Kö-tü!!!",
+                "Kö-tü...kana-mak...",
+                "Kö-tü...du-ne acımak..!",
                 "Ngghhhrrrnnghhhr!",
                 "Grrhhhhnnnghh!",
-                "He-lp!! Du-ne! N-OW!!!",
-                "Du-ne nee-d FIX..! H-ELP!!",
-                "NnnrrrhhNGHHH!! DU-NE TOO YE-LLOW!!",
-                "Nrrgghhh!!! B-lood!!!",
-                "Nrrhhh..! Du-ne b-lood!! Much!!!"
+                "Yar-dım!! Du-ne! N-OW!!!",
+                "Du-ne ihti-yaç DÜZELT-ME..! YAR-DIM!!",
+                "NnnrrrhhNGHHH!! DU-NE FAZLA SARI!!",
+                "Nrrgghhh!!! Kan!!!",
+                "Nrrhhh..! Du-ne kan!! Fazla!!!"
             ],
             "steponglass": [
                 "Du-ne gl-ass...",
